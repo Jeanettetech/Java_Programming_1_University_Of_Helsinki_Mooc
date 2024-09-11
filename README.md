@@ -2,7 +2,15 @@
  
 This is the first part of the [University of Helsinki’s free massive open online course (MOOC) on Object-Oriented Programming with Java](https://java-programming.mooc.fi/).
 
+Course information is provided below.
+
 -------------------------------------------------------------------
+ # Certificate:
+
+![certificate-java-programming-i](https://github.com/user-attachments/assets/be9e6fe2-2640-4197-8aef-e8725ded7a4e)
+ 
+-------------------------------------------------------------------
+
 ## Course Contents ##
 
 #### Part 1: #
@@ -281,3 +289,5 @@ This is the first part of the [University of Helsinki’s free massive open onli
      3. Programming exercise: Big year (3 parts)
  4. Summary and about exam
      1. Quiz
+   
+
