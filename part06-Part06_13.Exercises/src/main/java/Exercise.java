@@ -25,7 +25,7 @@ public class Exercise {
         this.completed = completed; 
     }   
     public boolean isCompleted() { 
-        return completed;   
+        return this.completed;   
     }
 }
 
